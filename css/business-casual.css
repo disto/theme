@@ -192,5 +192,6 @@ footer p {
     }
 }
 #footertext {
+    border: 2px solid red;
     font-size: 22px;
 }
